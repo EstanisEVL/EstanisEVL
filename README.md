@@ -1,4 +1,4 @@
-(aboutme-banner.jpg)
+<img src="aboutme-banner.jpg">
 
 # About me
 
