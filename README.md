@@ -1,11 +1,15 @@
-<img src="aboutme-banner.jpg">
+### Hi there 👋, Estanislao Elias Varela Lucius
+#### Frontend React JS Developer
+![Frontend React JS Developer](https://github.com/EstanisEVL/EstanisEVL/blob/master/aboutme-banner.jpg?raw=true)
 
-# About me
-
-Hello! I'm Estanislao, "Estanis", from Argentina and I'm currently studying React Frontend Development at [Coderhouse](https://www.coderhouse.com/). I enjoy working on new challenges, and I'm always looking to test my skills, learn new technologies, platforms and tools to improve my projects and myself as a developer!
+Hello! I'm Estanislao, "Estanis", from Argentina, and I'm currently studying React Frontend Development at Coderhouse. I enjoy working on new challenges, and I'm always looking to test my skills, learn new technologies, platforms and tools to improve my projects and myself as a developer!
 
 Please feel free to browse through my repositories! I do my best to keep it up to date with all my current projects.
 
-## 
+Skills: REACT / JS / HTML / CSS / WordPress / SASS-SCSS / BOOTSTRAP / GIT
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstanisEVL)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning React JS. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EstanisEVL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/estanislao-elias-varela-lucius-developer/)  
+
