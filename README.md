@@ -11,7 +11,7 @@ HTML | CSS | JavaScript | SASS/SCSS | Bootstrap | GIT
 
 ![HTML](https://github.com/EstanisEVL/EstanisEVL/blob/master/html.png) ![CSS](https://github.com/EstanisEVL/EstanisEVL/blob/master/css.png) ![JavaScript](https://github.com/EstanisEVL/EstanisEVL/blob/master/javascript.png) ![SASS/SCSS](https://github.com/EstanisEVL/EstanisEVL/blob/master/sass.png) ![Bootstrap](https://github.com/EstanisEVL/EstanisEVL/blob/master/bootstrap.png) ![GIT](https://github.com/EstanisEVL/EstanisEVL/blob/master/git.png)
 
-- I’m currently intensively learning ![ReactJS](https://github.com/EstanisEVL/EstanisEVL/blob/master/ReactJS.png) ReactJS.
+![ReactJS](https://github.com/EstanisEVL/EstanisEVL/blob/master/ReactJS.png) I’m currently intensively learning ReactJS.
 
 ### Social Information:
 [<img src='https://github.com/EstanisEVL/EstanisEVL/blob/master/github.png' alt='github' height='40'>](https://github.com/EstanisEVL)  [<img src='https://github.com/EstanisEVL/EstanisEVL/blob/master/LinkedIn.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/estanislao-elias-varela-lucius-developer/)  
