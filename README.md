@@ -13,8 +13,11 @@ HTML | CSS | JavaScript | SASS/SCSS | Bootstrap | GIT
 
 - I’m currently intensively learning ![ReactJS](https://github.com/EstanisEVL/EstanisEVL/blob/master/ReactJS.png) ReactJS.
 
-### Social information:
+### Social Information:
 [<img src='https://github.com/EstanisEVL/EstanisEVL/blob/master/github.png' alt='github' height='40'>](https://github.com/EstanisEVL)  [<img src='https://github.com/EstanisEVL/EstanisEVL/blob/master/LinkedIn.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/estanislao-elias-varela-lucius-developer/)  
 
+#### Top Languages Used:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstanisEVL)](https://github.com/anuraghazra/github-readme-stats)
+
 #### GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstanisEVL)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EstanisEVL&show_icons=true)  
