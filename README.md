@@ -8,6 +8,7 @@ Please feel free to browse through my repositories! I do my best to keep it up t
 ## Skills and Experience:
 
 HTML | CSS | JavaScript | SASS/SCSS | Bootstrap | GIT
+
 ![HTML](https://github.com/EstanisEVL/EstanisEVL/blob/master/html.png) ![CSS](https://github.com/EstanisEVL/EstanisEVL/blob/master/css.png) ![JavaScript](https://github.com/EstanisEVL/EstanisEVL/blob/master/javascript.png) ![SASS/SCSS](https://github.com/EstanisEVL/EstanisEVL/blob/master/sass.png) ![Bootstrap](https://github.com/EstanisEVL/EstanisEVL/blob/master/bootstrap.png) ![GIT](https://github.com/EstanisEVL/EstanisEVL/blob/master/git.png)
 
 - I’m currently intensively learning ![ReactJS](https://github.com/EstanisEVL/EstanisEVL/blob/master/ReactJS.png) ReactJS.
