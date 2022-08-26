@@ -6,16 +6,17 @@ Hi there 👋, I'm Estanislao, "Estanis", from Argentina, and I'm currently stud
 Please feel free to browse through my repositories! I do my best to keep it up to date with all my current projects.
 
 ## Skills and Experience:
-* ⚛ React
-* 💻 HTML, CSS, JS
-* WordPress
-* SASS-SCSS
-* BOOTSTRAP
-* GIT
 
-- 🌱 I’m currently learning React JS. 
+* (https://github.com/EstanisEVL/EstanisEVL/blob/master/html.png) HTML
+* (https://github.com/EstanisEVL/EstanisEVL/blob/master/css.png) CSS
+* (https://github.com/EstanisEVL/EstanisEVL/blob/master/javascript.png) JS
+* (https://github.com/EstanisEVL/EstanisEVL/blob/master/sass.png) SASS-SCSS
+* (https://github.com/EstanisEVL/EstanisEVL/blob/master/bootstrap.png) Bootstrap
+* (https://github.com/EstanisEVL/EstanisEVL/blob/master/git.png) GIT
+
+- 🌱 I’m currently learning ⚛ React.JS. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EstanisEVL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/estanislao-elias-varela-lucius-developer/)  
+[<img src='https://github.com/EstanisEVL/EstanisEVL/blob/master/github.png' alt='github' height='40'>](https://github.com/EstanisEVL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/estanislao-elias-varela-lucius-developer/)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstanisEVL)](https://github.com/anuraghazra/github-readme-stats)
