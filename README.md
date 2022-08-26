@@ -14,10 +14,10 @@ Please feel free to browse through my repositories! I do my best to keep it up t
 * ![Bootstrap](https://github.com/EstanisEVL/EstanisEVL/blob/master/bootstrap.png) Bootstrap
 * ![GIT](https://github.com/EstanisEVL/EstanisEVL/blob/master/git.png) GIT
 
-- 🌱 I’m currently learning ⚛ React.JS. 
+- 🌱 I’m currently learning ![ReactJS](). 
 
 ### Social information:
-[<img src='https://github.com/EstanisEVL/EstanisEVL/blob/master/github.png' alt='github' height='40'>](https://github.com/EstanisEVL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/estanislao-elias-varela-lucius-developer/)  
+[<img src='https://github.com/EstanisEVL/EstanisEVL/blob/master/github.png' alt='github' height='40'>](https://github.com/EstanisEVL)  [<img src='https://github.com/EstanisEVL/EstanisEVL/blob/master/LinkedIn.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/estanislao-elias-varela-lucius-developer/)  
 
 #### GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstanisEVL)](https://github.com/anuraghazra/github-readme-stats)
