@@ -7,12 +7,7 @@ Please feel free to browse through my repositories! I do my best to keep it up t
 
 ## Skills and Experience:
 
-* ![HTML](https://github.com/EstanisEVL/EstanisEVL/blob/master/html.png) HTML
-* ![CSS](https://github.com/EstanisEVL/EstanisEVL/blob/master/css.png) CSS
-* ![JavaScript](https://github.com/EstanisEVL/EstanisEVL/blob/master/javascript.png) JS
-* ![SASS/SCSS](https://github.com/EstanisEVL/EstanisEVL/blob/master/sass.png) SASS-SCSS
-* ![Bootstrap](https://github.com/EstanisEVL/EstanisEVL/blob/master/bootstrap.png) Bootstrap
-* ![GIT](https://github.com/EstanisEVL/EstanisEVL/blob/master/git.png) GIT
+![HTML](https://github.com/EstanisEVL/EstanisEVL/blob/master/html.png) HTML | ![CSS](https://github.com/EstanisEVL/EstanisEVL/blob/master/css.png) CSS | ![JavaScript](https://github.com/EstanisEVL/EstanisEVL/blob/master/javascript.png) JS | ![SASS/SCSS](https://github.com/EstanisEVL/EstanisEVL/blob/master/sass.png) SASS-SCSS | ![Bootstrap](https://github.com/EstanisEVL/EstanisEVL/blob/master/bootstrap.png) Bootstrap | ![GIT](https://github.com/EstanisEVL/EstanisEVL/blob/master/git.png) GIT
 
 - I’m currently intensively learning ![ReactJS](https://github.com/EstanisEVL/EstanisEVL/blob/master/ReactJS.png) ReactJS.
 
