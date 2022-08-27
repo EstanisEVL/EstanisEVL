@@ -1,7 +1,7 @@
 ![Frontend React JS Developer](https://github.com/EstanisEVL/EstanisEVL/blob/master/aboutme-banner.jpg)
 
 # Estanislao Elias Varela Lucius
-Hi there 👋, I'm Estanislao, "Estanis", from Argentina, and I'm currently studying React Frontend Development at Coderhouse. I enjoy working on new challenges, and I'm always looking to test my skills, learn new technologies, platforms and tools to improve my projects and myself as a developer!
+Hi there 👋, I'm Estanislao, "Estanis", from Argentina, and I'm currently studying React Frontend Development at [Coderhouse](https://www.coderhouse.com/online/carrera-online-desarrollo-frontend). I enjoy working on new challenges, and I'm always looking to test my skills, learn new technologies, platforms and tools to improve my projects and myself as a developer!
 
 Please feel free to browse through my repositories! I do my best to keep it up to date with all my current projects.
 
