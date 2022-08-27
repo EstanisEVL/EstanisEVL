@@ -7,19 +7,19 @@ Please feel free to browse through my repositories! I do my best to keep it up t
 
 ## Skills and Experience:
 
-HTML | CSS | JavaScript | SASS/SCSS | Bootstrap | GIT
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+![SASS/SCSS](https://img.shields.io/badge/SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)
+![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010) https://github.com/EstanisEVL/EstanisEVL/blob/master/html.png
-![CSS](https://github.com/EstanisEVL/EstanisEVL/blob/master/css.png)
-![JavaScript](https://github.com/EstanisEVL/EstanisEVL/blob/master/javascript.png)
-![SASS/SCSS](https://github.com/EstanisEVL/EstanisEVL/blob/master/sass.png)
-![Bootstrap](https://github.com/EstanisEVL/EstanisEVL/blob/master/bootstrap.png)
-![GIT](https://github.com/EstanisEVL/EstanisEVL/blob/master/git.png)
-
-![ReactJS](https://github.com/EstanisEVL/EstanisEVL/blob/master/ReactJS.png) I’m currently intensively learning ReactJS.
+I’m currently intensively learning ![ReactJS](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
 
 ### Social Information:
-[<img src='https://github.com/EstanisEVL/EstanisEVL/blob/master/github.png' alt='github' height='40'>](https://github.com/EstanisEVL)  [<img src='https://github.com/EstanisEVL/EstanisEVL/blob/master/LinkedIn.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/estanislao-elias-varela-lucius-developer/)  
+You can find me at:
+[<img src='https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010' alt='github'>](https://github.com/EstanisEVL)
+[<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010' alt='linkedin'>](https://www.linkedin.com/in/estanislao-elias-varela-lucius-developer/)  
 
 #### Top Languages Used:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstanisEVL)](https://github.com/anuraghazra/github-readme-stats)
