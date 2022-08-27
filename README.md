@@ -9,7 +9,12 @@ Please feel free to browse through my repositories! I do my best to keep it up t
 
 HTML | CSS | JavaScript | SASS/SCSS | Bootstrap | GIT
 
-![HTML](https://github.com/EstanisEVL/EstanisEVL/blob/master/html.png) ![CSS](https://github.com/EstanisEVL/EstanisEVL/blob/master/css.png) ![JavaScript](https://github.com/EstanisEVL/EstanisEVL/blob/master/javascript.png) ![SASS/SCSS](https://github.com/EstanisEVL/EstanisEVL/blob/master/sass.png) ![Bootstrap](https://github.com/EstanisEVL/EstanisEVL/blob/master/bootstrap.png) ![GIT](https://github.com/EstanisEVL/EstanisEVL/blob/master/git.png)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010) https://github.com/EstanisEVL/EstanisEVL/blob/master/html.png
+![CSS](https://github.com/EstanisEVL/EstanisEVL/blob/master/css.png)
+![JavaScript](https://github.com/EstanisEVL/EstanisEVL/blob/master/javascript.png)
+![SASS/SCSS](https://github.com/EstanisEVL/EstanisEVL/blob/master/sass.png)
+![Bootstrap](https://github.com/EstanisEVL/EstanisEVL/blob/master/bootstrap.png)
+![GIT](https://github.com/EstanisEVL/EstanisEVL/blob/master/git.png)
 
 ![ReactJS](https://github.com/EstanisEVL/EstanisEVL/blob/master/ReactJS.png) I’m currently intensively learning ReactJS.
 
