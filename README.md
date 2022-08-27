@@ -18,7 +18,9 @@ I’m currently intensively learning ![ReactJS](https://img.shields.io/badge/REA
 
 ### Social Information:
 You can find me at:
+
 [<img src='https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010' alt='github'>](https://github.com/EstanisEVL)
+
 [<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010' alt='linkedin'>](https://www.linkedin.com/in/estanislao-elias-varela-lucius-developer/)  
 
 #### Top Languages Used:
