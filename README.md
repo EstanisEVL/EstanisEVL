@@ -3,7 +3,7 @@
 # Estanislao Elias Varela Lucius
 Hi there 👋, I'm Estanislao, "Estanis", from Argentina, and I'm a Frontend React Developer. I enjoy working on new challenges, and I'm always looking to test my skills, learn new technologies, languages and tools to improve my projects and myself as a developer!
 
-Please feel free to browse through my repositories! I do my best to keep it up to date with all my current projects.
+Please feel free to browse through my repositories! I do my best to keep my profile up to date with all my current projects.
 
 ## Skills and Experience:
 
