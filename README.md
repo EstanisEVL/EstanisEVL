@@ -23,7 +23,7 @@ You can find me at:
 [<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010' alt='linkedin' height=40rem>](https://www.linkedin.com/in/estanislao-elias-varela-lucius-developer/)  
 
 #### Top Languages Used:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstanisEVL)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-estanisevl.vercel.app/api/top-langs/?username=EstanisEVL)](https://github.com/anuraghazra/github-readme-stats)
 
 #### GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstanisEVL)](https://github.com/anuraghazra/github-readme-stats)
