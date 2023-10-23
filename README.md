@@ -5,7 +5,7 @@ Hi there 👋, I'm Estanislao, "Estanis", from Argentina, and I'm a Frontend Rea
 
 Please feel free to browse through my repositories! I do my best to keep my profile up to date with all my current projects.
 
-## Skills and Experience:
+## Set of skills:
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
