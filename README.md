@@ -1,7 +1,7 @@
 ![Frontend React JS Developer](https://github.com/EstanisEVL/EstanisEVL/blob/master/GitHub-banner-estanislao-elias-varela-lucius-frontend-developer.png)
 
 # Estanislao Elias Varela Lucius
-Hi there 👋, I'm Estanislao, "Estanis", from Argentina, and I'm a Frontend React Developer. I enjoy working on new challenges, and I'm always looking to test my skills, learn new technologies, languages and tools to improve my projects and myself as a developer!
+Hi there 👋, I'm Estanislao, "Estanis", from Argentina, and I'm a Frontend oriented Full Stack Developer. I enjoy working on new challenges, and I'm always looking to test my skills, learn new technologies, languages and tools to improve my projects and myself as a developer!
 
 Please feel free to browse through my repositories! I do my best to keep my profile up to date with all my current projects.
 
