@@ -1,3 +1,5 @@
+![EstanisEVL banner](https://)
+
 # Estanislao Elias Varela Lucius
 Hi there 👋, I'm Estanislao, "Estanis", from Argentina, and I'm a Frontend oriented Full Stack Developer. I enjoy working on new challenges, and I'm always looking to test my skills, learn new technologies, languages and tools to improve my projects and myself as a developer!
 
@@ -26,7 +28,7 @@ You can find me at:
 
 [<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010' alt='linkedin' height=40rem>](https://www.linkedin.com/in/estanisevl)
 
-[<img src='https://img.shields.io/badge/Website-03234B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010' alt='website' height=40rem>](https://estanisevl.vercel.app)
+[<img src='https://img.shields.io/badge/Portfolio-03234B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010' alt='website' height=40rem>](https://estanisevl.vercel.app)
 
 
 #### Top Languages Used:
