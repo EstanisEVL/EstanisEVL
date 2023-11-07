@@ -12,7 +12,7 @@ Please feel free to browse through my repositories! I do my best to keep my prof
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)
 ![SASS/SCSS](https://img.shields.io/badge/SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)
-![Styled components](https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=101010)
+![Styled components](https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=101010)
 
 
 
