@@ -24,9 +24,9 @@ You can find me at:
 
 [<img src='https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010' alt='github' height=40rem>](https://github.com/EstanisEVL)
 
-[<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010' alt='linkedin' height=40rem>](https://www.linkedin.com/in/estanislao-elias-varela-lucius-developer/)
+[<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010' alt='linkedin' height=40rem>](https://www.linkedin.com/in/estanisevl)
 
-[<img src='https://img.shields.io/badge/Website-03234B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010' alt='website' height=40rem>](https://estanisevl.vercel.app/)
+[<img src='https://img.shields.io/badge/Website-03234B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010' alt='website' height=40rem>](https://estanisevl.vercel.app)
 
 
 #### Top Languages Used:
